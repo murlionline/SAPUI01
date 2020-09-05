@@ -2,7 +2,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<Page id="page" title="Supplier - International DSC">
+				<Page id="page" title="Supplier - Local Corporates">
 					<content>
 					    <List noDataText="Drop list items here" id="list0" items="{/BusinessPartnerSet}">
 					        <items>
